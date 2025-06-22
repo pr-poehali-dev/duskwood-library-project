@@ -9,7 +9,7 @@ const allBooks = [
     author: "Алан Мур",
     type: "book" as const,
     image:
-      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/09/b8/dd/09b8dd289144f54e863e0928f615fc1f.jpg",
     link: "https://interactive-book-vendetta--preview.poehali.dev/",
     description: "Интерактивная графическая новелла о борьбе за свободу",
   },
@@ -19,7 +19,7 @@ const allBooks = [
     author: "Катрин Освальд",
     type: "book" as const,
     image:
-      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/0d/b5/47/0db547fd818f4680cfacfb65534d69bb.jpg",
     description: "Практическое руководство по садоводству",
   },
   {
@@ -28,7 +28,7 @@ const allBooks = [
     author: "Сэмюэль Р.",
     type: "book" as const,
     image:
-      "https://images.unsplash.com/photo-1590856029826-c7d73bb642bd?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/1a/10/49/1a10499bcf41685218b149b19538a5a2.jpg",
     description: "История архитектуры мистического города",
   },
   {
@@ -37,7 +37,7 @@ const allBooks = [
     author: "Карстен Джерико",
     type: "book" as const,
     image:
-      "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/00/a0/21/00a02143c4dca82ebfa829a3cea44c1f.jpg",
     description: "Хроника эпидемии в средневековом городе",
   },
   {
@@ -46,7 +46,7 @@ const allBooks = [
     author: "С. Куин",
     type: "book" as const,
     image:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/52/79/08/5279085d8852503a31fb3640de695aa8.jpg",
     description: "Мистический триллер в темных улицах города",
   },
   {
@@ -55,7 +55,7 @@ const allBooks = [
     author: "Адам П.",
     type: "book" as const,
     image:
-      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=300&h=400&fit=crop",
+      "https://i.pinimg.com/736x/15/e9/6c/15e96ce334c761bdaf7b995e1936e084.jpg",
     description: "Энциклопедия природы Дасквуда",
   },
   {
@@ -64,7 +64,7 @@ const allBooks = [
     author: "Everbyte Studio",
     type: "game" as const,
     image:
-      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=400&fit=crop",
+      "https://everbytestudio.com/wp-content/uploads/2018/11/Text-Adventure-Dead-City-Android-iOS.jpg",
     description: "Детективная игра с элементами хоррора",
   },
   {
@@ -73,7 +73,7 @@ const allBooks = [
     author: "Everbyte Studio",
     type: "game" as const,
     image:
-      "https://images.unsplash.com/photo-1580234820419-525ceccf18fc?w=300&h=400&fit=crop",
+      "https://everbytestudio.com/wp-content/uploads/2023/05/MOONVALE-Web-Selection-Button.jpg",
     description: "Мистическая приключенческая игра",
   },
 ];
